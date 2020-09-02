@@ -1,7 +1,9 @@
-Todos os estudos com java
-==========================
+<h4 align="center">
+  <img src="https://www.professorisidro.com.br/wp-content/uploads/2019/04/java-logo.jpg" width="250px" />
+  <br>
+  <b>:coffee: Algumas aplicações desenvolidas com Java durante o Tecnologo de Análise e Desenvolvimento de Sistemas!</b>
+</h4>
 
-Descrição do repositório
-------------------------------
+<br>
 
-Todas as atividades desenvolvidas no curso de Análise e desenvolvimento de sistemas
+Feito com :heart: by **Gabriel Moraes Martins** :thumbsup:
